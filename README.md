@@ -1,2 +1,2 @@
 # Socio-Sphere
-It is a social media platform designed using Reactjs.
+It is a simple social media platform designed using Reactjs.
